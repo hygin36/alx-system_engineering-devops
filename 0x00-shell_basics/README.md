@@ -1,1 +1,1 @@
-task 3: command that display content in long list format
+task 4: display content of directory including hidden files
