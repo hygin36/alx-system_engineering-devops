@@ -1,1 +1,1 @@
-task 2: command that bring to the home directory
+task 3: command that display content in long list format
