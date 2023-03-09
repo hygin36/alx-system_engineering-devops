@@ -1,1 +1,1 @@
-task 7: moving file to a directory to another directory
+task 8: Deleting a file command
