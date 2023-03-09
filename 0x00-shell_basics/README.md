@@ -1,1 +1,1 @@
-task 10: command that brings to the previous directory
+task 11: Command that lists content of 3 directories at the same time
