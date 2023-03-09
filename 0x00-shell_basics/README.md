@@ -1,1 +1,1 @@
-task 8: Deleting a file command
+task 9: command that deletes a directory
