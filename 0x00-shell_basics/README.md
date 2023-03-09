@@ -1,1 +1,1 @@
-task 12: command that displays type of file
+task 13: command that creats a symbolic link
