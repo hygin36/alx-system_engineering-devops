@@ -1,1 +1,1 @@
-task 6: command creating file in the /tmp/directory
+task 7: moving file to a directory to another directory
