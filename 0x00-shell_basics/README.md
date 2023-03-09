@@ -1,1 +1,1 @@
-task 11: Command that lists content of 3 directories at the same time
+task 12: command that displays type of file
